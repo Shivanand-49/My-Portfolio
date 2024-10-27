@@ -48,7 +48,7 @@ const ProjectInfo = [
         title: "Tic Toc Toe Game",
         desc: "A 3x3 Tic-Tac-Toe game built with ReactJS, JavaScript, and styled using Tailwind CSS offers a smooth and interactive experience. The board displays nine clickable squares that alternate between X and O as players take turns. Each click triggers a function to handle turns, check for wins, and detect draws. Once a player wins, a message displays the winner and the board resets with a new game button. Tailwind CSS adds a clean, modern design, with rounded squares, hover effects, and responsive scaling. This simple game demonstrates the power of React’s component-based structure and Tailwind's styling flexibility.",
         image: "tic-toc-toe.png",
-        live: false,
+        live: true,
         technologies: ["React","Tailwind"],
         link: "https://tic-toc-toe-by-shivanand.vercel.app/",
         github: "https://github.com/Shivanand-49/Tic-Toc-Toe-React.js"
