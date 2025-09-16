@@ -1,7 +1,7 @@
 import { IconBrandGithub, IconBrandGmail, IconBrandLeetcode, IconBrandLinkedin, IconBrandX } from "@tabler/icons-react";
 const Info = {
     name: "Shivanand Yadav",
-    stack: ["Software Engineer"],
+    stack: ["Software Developer"],
     bio: "I'm a passionate software engineer focused on crafting efficient, scalable solutions and delivering top-notch web applications that exceed expectations. Let's connect and create something amazing together!"
 }
 
