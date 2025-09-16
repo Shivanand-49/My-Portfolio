@@ -17,6 +17,15 @@ const ProjectInfo = [
         link: "https://studynotion-by-shiva-mocha.vercel.app/",
         github: "https://github.com/Shivanand-49/StudyNotion-Hosting"
     },
+       {
+        title: "EmailAi Writer",
+        desc:"Built Java Spring Boot app with RESTful APIs for email automation, Integrated Gemini API to generate AI-powered email replies.Developed Chrome Extension for real-time email assistance.Improved productivity with automated, context-aware email drafting.Ensured scalable and secure communication workflow",
+        image: "EmailAi-Writer.png",
+        live: true,
+        technologies: ["Spring Boot","Reactjs"],
+        link: "https://email-ai-writer-shiva.vercel.app/",
+        github: "https://github.com/Shivanand-49/EmailAI-Writer"
+    },
     {
         title: "Random GIF Generator",
         desc: "Random GIF Generator with React is a fun, dynamic web application designed to bring users joy by instantly displaying random GIFs fetched from the Giphy API. Built with React and organized into modular components, the app offers an intuitive, user-friendly interface where users can effortlessly generate new GIFs with a click. React Hooks, such as useState and useEffect, manage state seamlessly, providing a smooth experience as content updates in real-time. With Axios handling API requests, users have access to a diverse, constantly refreshed GIF collection. Responsive design ensures compatibility across devices, making this application engaging and accessible anytime, anywhere.",
@@ -53,6 +62,7 @@ const ProjectInfo = [
         link: "https://tic-toc-toe-by-shivanand.vercel.app/",
         github: "https://github.com/Shivanand-49/Tic-Toc-Toe-React.js"
     },
+    
     // {
     //     title: "CodeX Code Editor",
     //     desc: "CodeX is a modern, fully responsive code editor built using React, TailwindCSS, and Ace Editor, offering a seamless coding experience across all devices. It features syntax highlighting for popular programming languages, including HTML, CSS, JavaScript, Python, and Java. Users can create, edit, and save code files, with the option to download them as text files. CodeX combines robust functionality with a sleek, intuitive design, making coding effortless and enjoyable.",
