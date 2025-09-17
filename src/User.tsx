@@ -83,15 +83,15 @@ const SkillInfo = [
     },
     {
         title: "Backend",
-        skills: ["Node JS", "Express JS", "MySQL", "MongoDB" ]
+        skills: ["Spring Boot", "Node JS", "Express JS", "PostgresSQL", "MongoDB" ]
     },
     {
         title: "Languages",
-        skills: ["C", "C++", "JavaScript", "Java"]
+        skills: ["Java", "C", "C++", "JavaScript"]
     },
     {
         title: "Tools",
-        skills: ["Git", "Github", "VS Code", "Postman", "MongoDB Compass","Spring Tool Suite"]
+        skills: ["Git", "Github", "VS Code", "Postman", "MongoDB Compass","Intellij Idea","Docker"]
     }
 ]
 const socialLinks = [
@@ -105,16 +105,16 @@ const socialLinks = [
 
 const ExperienceInfo = [
     {
-        role: "Specialist Programmer",
-        company: "Infosys",
-        date: "Oct 2023 - Present",
+        role: "",
+        company: "",
+        date: "",
         desc: "I led software development with Spring Boot, React, and Angular, creating scalable microservices and interfaces. I optimized performance by integrating frontend and backend, and enhanced security with RESTful APIs. Collaborating in agile teams, I fostered innovation and efficiency for top-quality solutions.",
         skills: ["Springboot", "React JS", "Angular", "Node JS", "MySQL", "MongoDB", "Microservices"]
     },
     {
-        role: "System Engineer",
-        company: "Infosys",
-        date: "Nov 2022 - Sep 2023",
+        role: "",
+        company: "",
+        date: "",
         desc: " I leveraged my skills in Java, Selenium, automation testing, and MySQL to design and implement automated testing frameworks, ensuring robust software validation. I optimized database performance and reliability, and collaborated with cross-functional teams to enhance system operations and ensure seamless integration.",
         skills: ["Java", "MySQL", "Hibernate", "Selenium", "Jenkins", "JIRA", "Automation Testing"]
     }
