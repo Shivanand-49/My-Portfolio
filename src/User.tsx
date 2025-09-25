@@ -2,7 +2,7 @@ import { IconBrandGithub, IconBrandGmail, IconBrandLeetcode, IconBrandLinkedin, 
 const Info = {
     name: "Shivanand Yadav",
     stack: ["Software Developer"],
-    bio: "I'm a passionate software engineer focused on crafting efficient, scalable solutions and delivering top-notch web applications that exceed expectations. Let's connect and create something amazing together!"
+    bio: "I'm a passionate software developer focused on crafting efficient, scalable solutions and delivering top-notch web applications that exceed expectations. Let's connect and create something amazing together!"
 }
 
 
