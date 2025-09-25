@@ -99,7 +99,7 @@ const socialLinks = [
     { link: "https://www.linkedin.com/in/shivanand49/", icon: IconBrandLinkedin }, 
     { link: "https://leetcode.com/u/Shivanand-49/", icon: IconBrandLeetcode },
     { link: "https://x.com/Shiva_4949", icon: IconBrandX },
-    { link: "https://mail.google.com/mail/?view=cm&fs=1&to=shivanandyadav8023@gmail.com", icon: IconBrandGmail },
+    { link: "https://mail.google.com/mail/?view=cm&fs=1&to=shivanand.yadav.tech@gmail.com", icon: IconBrandGmail },
 ];
 
 
